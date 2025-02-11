@@ -24,4 +24,10 @@ The JetBot detects and identifies **colored cubes** randomly distributed in the 
 - **Dynamic Obstacle Avoidance**  
 - **Precise Object Sorting Mechanism**
 
-- https://github.com/weilinhan/AprilDrive-Nano/blob/master/issue/video%20-%20Compressed%20with%20FlexClip.mp4
+## 🚗 JetBot Demo Video
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/weilinhan/AprilDrive-Nano/blob/master/issue/video%20-%20Compressed%20with%20FlexClip.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
