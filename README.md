@@ -23,3 +23,5 @@ The JetBot detects and identifies **colored cubes** randomly distributed in the 
 - **Real-time Object Detection & Classification**  
 - **Dynamic Obstacle Avoidance**  
 - **Precise Object Sorting Mechanism**
+
+- https://github.com/weilinhan/AprilDrive-Nano/blob/master/issue/video%20-%20Compressed%20with%20FlexClip.mp4
