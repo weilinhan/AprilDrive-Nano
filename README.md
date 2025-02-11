@@ -26,5 +26,5 @@ The JetBot detects and identifies **colored cubes** randomly distributed in the 
 
 ## 🚗 JetBot Demo Video
 
-[![Watch the demo](https://img.icons8.com/ios-filled/500/play--v1.png)](https://github.com/weilinhan/AprilDrive-Nano/blob/master/issue/video%20-%20Compressed%20with%20FlexClip.mp4?raw=true)
+https://youtu.be/yuZql8cGcAs
 
